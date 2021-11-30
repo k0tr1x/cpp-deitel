@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1638239660 source:/home/misson/github/cpp-deitel/capitulo_06/exemplos/fig06_03/main.cpp
+	"GradeBook.h"
+
+1638239871 /home/misson/github/cpp-deitel/capitulo_06/exemplos/fig06_03/GradeBook.h
+	<string>
+
