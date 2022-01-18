@@ -32,6 +32,8 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="GradeBook.cpp" />
+		<Unit filename="GradeBook.h" />
 		<Unit filename="main.cpp" />
 		<Extensions />
 	</Project>
