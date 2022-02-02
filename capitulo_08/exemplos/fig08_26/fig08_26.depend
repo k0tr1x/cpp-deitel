@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1643825001 source:/home/misson/github/cpp-deitel/capitulo_08/exemplos/fig08_26/main.cpp
+	"DeckOfCards.h"
+
+1643817030 /home/misson/github/cpp-deitel/capitulo_08/exemplos/fig08_26/DeckOfCards.h
+
+1643825079 source:/home/misson/github/cpp-deitel/capitulo_08/exemplos/fig08_26/fig08_27.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	"DeckOfCards.h"
+
